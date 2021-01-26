@@ -1,0 +1,6 @@
+{
+  "MONGO_URI": "mongodb+srv://hakim92:est1511919@cluster0.e9dju.mongodb.net/devConnector?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtTopSecret",
+  "githubClientId": "bb7b3bcb1afd2d0585a7",
+  "githubSecret": "5ffec19522f045d22553ac7956e4097c274ecc8f"
+}
